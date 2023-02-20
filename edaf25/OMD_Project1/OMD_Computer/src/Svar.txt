@@ -1,0 +1,10 @@
+
+1. Intruction, Operand, Word är de som inte är med i de 14 i uppgiften
+
+2. Program extendar ArrayList
+
+3. Vi har computer, intruction, operand
+
+4.
+
+5.
